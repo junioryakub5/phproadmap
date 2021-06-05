@@ -6,4 +6,5 @@ this is my first official project after my reformation.I want to make it a tradi
     * THE USE OF PREPARED STATEMENTS 
     * AND SOME BASIC LOGICS 
     * WORKING WITH IMAGES 
+    * ERROR HANDLING USING ARRAYS 
 *in search of the easiest way to show you my progress of work lead me to start learning git and github.
